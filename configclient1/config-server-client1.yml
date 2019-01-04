@@ -1,0 +1,3 @@
+server:
+  port: ${PORT:8986}
+msg: Hello world - this is for config Client1 from config server

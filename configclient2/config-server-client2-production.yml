@@ -1,0 +1,3 @@
+server:
+  port: ${PORT:8987}
+msg: Hello world - this is for config Client2 from config server Production environment
